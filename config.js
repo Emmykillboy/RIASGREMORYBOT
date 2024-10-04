@@ -51,7 +51,7 @@ module.exports = {
   caption: process.env.CAPTION || "𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗧𝗢𝗫𝗫𝗜𝗖 𝗕𝗢𝗬",
   author: process.env.PACK_AUTHER || "ᴛᴏxxɪᴄ ᴍᴅ",
   packname: process.env.PACK_NAME || "𝗥𝗜𝗔𝗦 𝗠𝗗",
-  botname: process.env.BOT_NAME || "Dc❄️ Dracula",
+  botname: process.env.BOT_NAME || "Dc❄️Dracula",
   ownername: process.env.OWNER_NAME || "ᴛᴏxxɪᴄ",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
